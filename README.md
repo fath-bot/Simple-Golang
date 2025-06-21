@@ -1,6 +1,7 @@
 # Sistem Manajemen Inventori Barang
 
 Sebuah sistem manajemen inventori sederhana yang dibuat dengan bahasa Go untuk mengelola produk, mencatat transaksi.
+Project Tugas Semester 2
 
 ## Fitur Utama
 
